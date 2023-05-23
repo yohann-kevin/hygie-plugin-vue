@@ -1,0 +1,15 @@
+{
+  "name": "hygie-vue-plugins",
+  "version": "O.0.1",
+  "description": "hygie plugins wrapper for vuejs",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pino": "^8.14.1",
+    "utilitylib-js": "^2.0.0"
+  }
+}
