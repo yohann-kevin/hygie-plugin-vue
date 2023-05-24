@@ -4,10 +4,10 @@ const pino = require("pino")();
 const HygieVue = {
   install(Vue, options) {
 
-    Vue.prototype.$hygie = {
-      util: util,
-      logger: pino,
-    };
+    // Vue.prototype.$hygie = {
+    //   util: util,
+    //   logger: pino,
+    // };
 
     // util method
     Vue.prototype.util = util;

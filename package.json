@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "pino": "^8.14.1",
-    "utilitylib-js": "^2.0.0"
+    "pino": "*",
+    "utilitylib-js": "*"
   }
 }
