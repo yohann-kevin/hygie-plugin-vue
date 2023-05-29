@@ -1,6 +1,6 @@
 {
   "name": "hygie-vue-plugins",
-  "version": "O.0.1",
+  "version": "1.0.0",
   "description": "hygie plugins wrapper for vuejs",
   "main": "main.js",
   "scripts": {
