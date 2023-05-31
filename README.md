@@ -1,6 +1,6 @@
 # ag-front
 
-## How to install the plugin (https://www.npmjs.com/package/hygie-vue-plugins) :
+#### How to install the plugin (https://www.npmjs.com/package/hygie-vue-plugins) :
 ```
 npm i hygie-vue-plugins
 ```
@@ -10,7 +10,7 @@ import HygieVuePlugins from 'hygie-vue-plugins';
 Vue.use(HygieVuePlugins);
 ```
 
-# test pluggin install main.js
+#### test pluggin install main.js
 
 ```
 
@@ -21,7 +21,7 @@ if (Vue.prototype.$hygie) {
 }
 ```
 
-# Finally, in try catch replace console.log 
+#### Finally, in try catch replace console.log 
 
 try:
 ```
